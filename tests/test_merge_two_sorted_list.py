@@ -1,4 +1,5 @@
-from src.merge_two_sorted_list import Solution
+from src.merge_two_sorted_list import Solution, ListNode
+
 
 sol = Solution()
 def test_one():
