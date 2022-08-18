@@ -15,7 +15,7 @@ import sys
 
 def countingSort(arr):
     # Write your code here
-    return [arr.count(x) for x in range(len(arr))]
+    return [arr.count(x) for x in range(100)]
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
